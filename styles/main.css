@@ -1,0 +1,55 @@
+.grand {
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     background-color: lightgreen;
+     margin-top: 75px;
+}
+
+.contract {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightblue;
+    margin-top: 75px;
+}
+
+.super-contract {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellow;
+    color: #222;
+    margin-top: 75px;
+}
+
+.tugadi {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: crimson;
+    margin-top: 75px;
+}
+
+.heading {
+     margin-top: 25px;
+     margin-bottom: 25px;
+     color: aqua;
+}
+
+body {
+     background-color: chartreuse;
+}
+
+
+@media only screen and (max-width:576px) {
+     .form {
+          margin-left: auto;
+          margin-right: auto;
+          width: 200px;
+     }
+}
